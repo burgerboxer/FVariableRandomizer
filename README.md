@@ -14,8 +14,10 @@
 5. Configure config.json and set what you like to false to include them. (Optional)
 6. To do it again press "Enter" on your keyboard.
 
-#### Binary
+#### ~~Binary~~
 
-1. Download from [Releases](https://github.com/FineWhine/FVariableRandomizer/releases) & Extract
-2. Read `"README.txt"`
-3. Run `RFR.exe`
+1. ~~Download from [Releases](https://github.com/FineWhine/FVariableRandomizer/releases) & Extract~~
+2. ~~Read `"README.txt"`~~
+3. ~~Run `RFR.exe`~~
+
+##### uhh im having problems building it
