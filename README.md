@@ -12,7 +12,7 @@
 3. Run install_req.bat
 4. Run main.py
 5. Configure config.json and set what you like to false to include them. (Optional)
-6. To do it again press "Enter" on your keyboard.
+6. To randomize again press "Enter" on your keyboard.
 
 #### ~~Binary~~
 
