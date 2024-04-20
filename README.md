@@ -16,8 +16,6 @@
 
 #### ~~Binary~~
 
-1. ~~Download from [Releases](https://github.com/FineWhine/FVariableRandomizer/releases) & Extract~~
-2. ~~Read `"README.txt"`~~
-3. ~~Run `RFR.exe`~~
-
-##### uhh im having problems building it
+1. Download from [Releases](https://github.com/FineWhine/FVariableRandomizer/releases) & Extract
+2. Read `"README.txt"`
+3. Run `RFR.exe`
