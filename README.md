@@ -8,7 +8,7 @@
 
 #### Source
 1. Download & Install [Python](https://www.python.org/)
-2. Clone the repository using git: `git clone https://github.com/FineWhine/FVariableRandomizer.git`
+2. Clone the repository using git: `git clone https://github.com/burgerboxer/FVariableRandomizer.git`
 3. Run install_req.bat
 4. Run main.py
 5. Configure config.json and set what you like to false to include them. (Optional)
