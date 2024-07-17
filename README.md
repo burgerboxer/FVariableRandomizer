@@ -14,10 +14,4 @@
 5. Configure config.json and set what you like to false to include them. (Optional)
 6. To randomize again press "Enter" on your keyboard.
 
-#### ~~Binary~~
-
-1. Download from [Releases](https://github.com/FineWhine/FVariableRandomizer/releases) & Extract
-2. Read `"README.txt"`
-3. Run `RFR.exe`
-
 <p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
